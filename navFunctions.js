@@ -1,6 +1,8 @@
-$(document).ready(function () {
+
+    $(document).ready(function () {
 
 
-    $("#navBarHolder").load("nav.html");
+        $("#navBarHolder").load("nav.html");
 
-});
+    });
+
